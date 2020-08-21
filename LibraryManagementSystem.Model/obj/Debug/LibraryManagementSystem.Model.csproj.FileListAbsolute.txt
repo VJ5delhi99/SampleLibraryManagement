@@ -1,0 +1,5 @@
+C:\Users\VjSoft\source\repos\LibraryManagementSystem\LibraryManagementSystem.Model\bin\Debug\LibraryManagementSystem.Model.dll
+C:\Users\VjSoft\source\repos\LibraryManagementSystem\LibraryManagementSystem.Model\bin\Debug\LibraryManagementSystem.Model.pdb
+C:\Users\VjSoft\source\repos\LibraryManagementSystem\LibraryManagementSystem.Model\obj\Debug\LibraryManagementSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\VjSoft\source\repos\LibraryManagementSystem\LibraryManagementSystem.Model\obj\Debug\LibraryManagementSystem.Model.dll
+C:\Users\VjSoft\source\repos\LibraryManagementSystem\LibraryManagementSystem.Model\obj\Debug\LibraryManagementSystem.Model.pdb

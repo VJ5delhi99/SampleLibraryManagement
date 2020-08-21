@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Welcome to VJ Library</h3>
+
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="catalog">
+                <h2 class="mdl-card__title-text homeLabel">Library Catalog</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                View and manage library assets.
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" href="/Catalog">
+                    View Catalog
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="demo-card-square mdl-card mdl-shadow--2dp">
+            <div class="mdl-card__title mdl-card--expand" id="users">
+                <h2 class="mdl-card__title-text homeLabel">Users</h2>
+            </div>
+            <div class="mdl-card__supporting-text">
+                View and manage library User data.
+            </div>
+            <div class="mdl-card__actions mdl-card--border">
+                <a class="mdl-button mdl-button--colored" href="/user">
+                    View User Index
+                </a>
+            </div>
+        </div>
+    </div>
+
+     
+</div>
